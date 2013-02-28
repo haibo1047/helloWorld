@@ -11,4 +11,7 @@ public class HelloWorld {
 	}
 
 	
+	public void testNum(){
+		
+	}
 }
